@@ -1,0 +1,28 @@
+{
+  "Mapping": [
+    {
+      "cloud_region": "us-east-1",
+      "cloud_provider": "AWS",
+      "electricity_maps_region": "US-MIDA-PJM"
+    },
+
+    {
+      "cloud_region": "us-east-2",
+      "cloud_provider": "AWS",
+      "electricity_maps_region": "US-MIDA-PJM"
+    },
+
+    {
+      "cloud_region": "us-west-1",
+      "cloud_provider": "AWS",
+      "electricity_maps_region": "US-CAL-CISO"
+    },
+
+    {
+      "cloud_region": "us-west-2",
+      "cloud_provider": "AWS",
+      "electricity_maps_region": "US-NW-PACW"
+    }
+
+  ]
+}
